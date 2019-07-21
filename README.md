@@ -2,4 +2,10 @@
 使い方はjupyter notebook を使いコードを実行する。そのとき明るい場所でカメラを抑えておく。カメラが起動して何秒かたったらキーボードのqを押す。すると撮影が終わり、フレームごとの平均輝度がプロットされたグラフが出力される。
 https://code-graffiti.com/connect-with-webcam-using-opencv-in-python/
 このサイトからはカメラからの動画の取り込み方と、保存の仕方を教わった。
+https://hampen2929.com/movie-image/88
+このサイトから動画を1フレームごとに画像にすることを教わった。
+https://techacademy.jp/magazine/18806
+このサイトから配列を生成し、要素を代入することを教わった。
+https://shizenkarasuzon.hatenablog.com/entry/2018/11/16/205129
+このサイトからグラフのプロットの仕方を教わった。
 
